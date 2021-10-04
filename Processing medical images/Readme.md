@@ -10,4 +10,12 @@
 
 # Chest X-Ray Medical Diagnosis with Deep Learning
 
+![image5](5.png)
 
+![image6](6.png)
+
+![image7](7.png)
+
+![image8](8.png)
+
+![image9](9.png)
